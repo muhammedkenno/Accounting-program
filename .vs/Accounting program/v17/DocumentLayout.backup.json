@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Main Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Accounting program\\Main Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\accounting program\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:accounting program\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Accounting program\\Subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\accounting program\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:accounting program\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Accounting program\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\accounting program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:accounting program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Main Page.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Main Page.cs",
+              "ToolTip": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Main Page.cs [Design]",
+              "RelativeToolTip": "Accounting program\\Main Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:03:21.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Home.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Home.cs",
+              "ToolTip": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Home.cs [Design]",
+              "RelativeToolTip": "Accounting program\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:02:56.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscriptions.cs",
+              "DocumentMoniker": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Subscriptions.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Subscriptions.cs",
+              "ToolTip": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Subscriptions.cs",
+              "RelativeToolTip": "Accounting program\\Subscriptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:14:29.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subscriptions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Subscriptions.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Subscriptions.cs",
+              "ToolTip": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Subscriptions.cs [Design]",
+              "RelativeToolTip": "Accounting program\\Subscriptions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:14:22.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Employee.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Employee.cs",
+              "ToolTip": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Employee.cs",
+              "RelativeToolTip": "Accounting program\\Employee.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:14:05.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yoskn\\OneDrive\\Desktop\\Accounting program\\Accounting program\\Employee.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Employee.cs",
+              "ToolTip": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Employee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:14:03.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
