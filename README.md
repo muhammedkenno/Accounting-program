@@ -1,2 +1,2 @@
 # Accounting program
-[dgdf] (AccountingPro.pdf)
+![](AccountingPro.pdf)
