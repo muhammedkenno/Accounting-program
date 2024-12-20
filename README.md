@@ -1,2 +1,2 @@
 # Accounting program
-[gg](AccountingPro.pdf)
+[View The PDF](AccountingPro.pdf)
